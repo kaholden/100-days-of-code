@@ -1,11 +1,10 @@
+# 100 Days Of Code - Log
 
 1. Python
 2. HTML5
 3. JavaScript, with one framework like Angular or React
 4. CSS3
 5. Database
-
-# 100 Days Of Code - Log
 
 ### Day 0: December 29, 2017
 
